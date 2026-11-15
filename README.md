@@ -1,10 +1,19 @@
-# TrueGift Gift Finder — MCP server prototype
+# TrueGift Gift Finder — MCP server
 
-Built 2026-11-13. A working, read-only MCP server over TrueGift's real, already-published
-gift-guide data. It is the concrete first build for the AI-native distribution plan
-(`../../distribution-ai-native-plan-2026-11-13.md`): one server, submittable in shape to
-ChatGPT (plugin + MCP connection), Claude (Connectors Directory), Perplexity/Grok/Gemini
-(custom connector by URL), and the MCP registries (agent-to-agent discovery).
+A read-only MCP server over TrueGift's real, published gift-guide data — the
+first build of the AI-native distribution plan
+(`../../distribution-ai-native-plan-2026-11-13.md`): one server, distributed
+to ChatGPT (plugin + MCP connection), Claude (Connectors Directory),
+Perplexity/Grok/Gemini (custom connector by URL), and the MCP registries
+(agent-to-agent discovery).
+
+**LIVE since 2026-11-15** — see `PRODUCTION-STATUS.md` for the endpoint,
+hosting, and update flow. Nothing has been submitted to any directory or
+registry yet.
+
+- **Production endpoint:** `https://netpnmoapwzktvqjnrlo.supabase.co/functions/v1/gift-finder-mcp`
+  (Supabase Edge Function; source: `edge-function/gift-finder-mcp/index.ts`)
+- **This repo:** https://github.com/loyd-vitalbridgex/truegift-mcp
 
 ## Tools
 
@@ -14,41 +23,53 @@ ChatGPT (plugin + MCP connection), Claude (Connectors Directory), Perplexity/Gro
 | `list_gift_guides` | Browses the guide catalog, filterable by occasion and recipient |
 | `get_gift_guide` | One guide's summary + full pick list |
 
-All tools: `readOnlyHint=true`, `destructiveHint=false`, `openWorldHint=false`, no auth,
-no user data collected, outputs carry no internal IDs — the exact shape OpenAI's and
-Anthropic's reviewers check for.
+All tools: `readOnlyHint=true`, `destructiveHint=false`, `openWorldHint=false`,
+no auth, no user data collected, outputs carry no internal IDs — the exact
+shape OpenAI's and Anthropic's reviewers check for.
 
-## Data
+## Data — live, not a snapshot
 
-`data/guides.json` — snapshot dated 2026-11-13: 91 guides from the live
-https://truegift.ai/sitemap.xml, with full pick-level data (names + why-it-fits) for the
-three flagship holiday guides (christmas-gift-ideas: 9 picks, christmas-gifts-for-her: 7,
-hanukkah-gifts-for-kids: 8). Rebuild with `.venv/bin/python build_data.py`.
+The catalog comes from https://truegift.ai/sitemap.xml (every `/gifts/*` and
+`/guides/*` URL; tags derived from the slug). Each guide's picks and summary
+come from the guide page's static JSON-LD (`<script data-gift-static>`
+@graph), fetched lazily and cached with a 6h TTL. Curated why-it-fits text
+for flagship picks is merged from `data/guides.json`, which is also the
+offline fallback if the site is unreachable. New guides appear automatically
+once they are in the sitemap.
 
-## Run / test
+## Implementations
+
+- `edge-function/gift-finder-mcp/index.ts` — **production**. Single-file
+  Deno, zero imports, stateless Streamable HTTP JSON-RPC. Deployed in the
+  TrueGift project's Supabase backend via Lovable (see PRODUCTION-STATUS.md).
+- `server.py` + `gift_data.py` — the same server in Python (FastMCP), for
+  local development and as a portable fallback host (stdio, `--http`, or
+  `uvicorn server:app`; Dockerfile + Procfile included).
+
+## Run / test (Python)
 
 ```bash
 .venv/bin/python server.py            # stdio
 .venv/bin/python server.py --http     # Streamable HTTP at http://127.0.0.1:8377/mcp
-.venv/bin/python test_client.py       # stdio client smoke test — ALL TESTS PASSED 2026-11-13
+.venv/bin/python test_data.py         # data-layer tests (offline, fixtures)
+.venv/bin/python test_client.py       # stdio client smoke test
+.venv/bin/python test_http.py         # local HTTP: /health, challenge route, MCP session
+.venv/bin/python test_remote.py https://netpnmoapwzktvqjnrlo.supabase.co/functions/v1/gift-finder-mcp
 ```
 
-Verified 2026-11-13: stdio initialize + tools/list + all three tool calls with structured
-output; Streamable HTTP initialize + session + tools/list over raw JSON-RPC.
+All suites passed 2026-11-15, including the remote run against the
+production URL.
 
-## What production needs (in order)
+## Extra routes (both implementations)
 
-1. **Hosting**: a public HTTPS endpoint on a domain we control. Cheapest fit with the
-   existing stack: a `/mcp` route in the Lovable app deployment, or this same FastMCP
-   server on any small host. The URL cannot change through OpenAI's update flow — pick
-   the permanent one (`https://truegift.ai/mcp` is the intended target in `server.json`).
-2. **Live data**: replace the snapshot with the Lovable app's stored guide graphs
-   (the app's JSON-LD @graph store) so picks, prices context and new guides stay current.
-3. **Domain verification**: serve OpenAI's challenge token at
-   `https://truegift.ai/.well-known/openai-apps-challenge` when submitting to ChatGPT.
-4. **Listing assets**: privacy policy + terms already live at truegift.ai/privacy and
-   /terms; needs a support page, icon, 5 positive + 3 negative test cases, a video
-   walkthrough, and a verified OpenAI developer identity (org verification).
-5. **Submit**: ChatGPT plugin ZIP via platform.openai.com/plugins → Claude connector via
-   claude.ai/directory/manage → official MCP Registry via `mcp-publisher` (cascades to
-   Glama/Smithery/PulseMCP). Nothing has been submitted — see the plan file.
+- `GET /health` → `{"status":"ok","guides":91,"data_source":"live"}`
+- `GET /.well-known/openai-apps-challenge` → the value of the
+  `OPENAI_APPS_CHALLENGE_TOKEN` env var / function secret (404 when unset;
+  the token is issued by OpenAI at ChatGPT submission time).
+
+## Registry draft
+
+`server.json` is the official-MCP-Registry draft pointing at the production
+URL. **Not published** — publishing (with `ai.truegift` namespace
+verification on truegift.ai) is a separate, later step, as are the ChatGPT
+and Claude submissions.
