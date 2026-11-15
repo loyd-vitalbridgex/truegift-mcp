@@ -1,0 +1,1073 @@
+{
+ "snapshot_date": "2026-11-13",
+ "source": "https://truegift.ai/sitemap.xml + live guide pages",
+ "guides": [
+  {
+   "slug": "gifts-for-a-retired-nurse",
+   "title": "Gifts For A Retired Nurse",
+   "url": "https://truegift.ai/gifts/gifts-for-a-retired-nurse",
+   "occasions": [],
+   "recipients": [
+    "nurse"
+   ],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "gifts-under-30-for-a-new-homeowner",
+   "title": "Gifts Under 30 For A New Homeowner",
+   "url": "https://truegift.ai/gifts/gifts-under-30-for-a-new-homeowner",
+   "occasions": [],
+   "recipients": [],
+   "budget_ceiling_usd": 30
+  },
+  {
+   "slug": "gifts-for-a-new-grandpa",
+   "title": "Gifts For A New Grandpa",
+   "url": "https://truegift.ai/gifts/gifts-for-a-new-grandpa",
+   "occasions": [],
+   "recipients": [
+    "grandpa"
+   ],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "gifts-for-a-coworker-leaving",
+   "title": "Gifts For A Coworker Leaving",
+   "url": "https://truegift.ai/gifts/gifts-for-a-coworker-leaving",
+   "occasions": [],
+   "recipients": [
+    "coworker"
+   ],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "gifts-for-a-teen-who-loves-cooking",
+   "title": "Gifts For A Teen Who Loves Cooking",
+   "url": "https://truegift.ai/gifts/gifts-for-a-teen-who-loves-cooking",
+   "occasions": [],
+   "recipients": [
+    "teen"
+   ],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "secret-santa-gifts-under-25-for-coworkers",
+   "title": "Secret Santa Gifts Under 25 For Coworkers",
+   "url": "https://truegift.ai/gifts/secret-santa-gifts-under-25-for-coworkers",
+   "occasions": [
+    "secret-santa"
+   ],
+   "recipients": [
+    "coworker"
+   ],
+   "budget_ceiling_usd": 25
+  },
+  {
+   "slug": "christmas-gifts-for-a-dad-who-has-everything",
+   "title": "Christmas Gifts For A Dad Who Has Everything",
+   "url": "https://truegift.ai/gifts/christmas-gifts-for-a-dad-who-has-everything",
+   "occasions": [
+    "christmas"
+   ],
+   "recipients": [
+    "dad"
+   ],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "gifts-for-a-mother-in-law-under-50",
+   "title": "Gifts For A Mother In Law Under 50",
+   "url": "https://truegift.ai/gifts/gifts-for-a-mother-in-law-under-50",
+   "occasions": [],
+   "recipients": [
+    "her",
+    "mother-in-law"
+   ],
+   "budget_ceiling_usd": 50
+  },
+  {
+   "slug": "hanukkah-gifts-for-kids",
+   "title": "Hanukkah Gifts For Kids",
+   "url": "https://truegift.ai/gifts/hanukkah-gifts-for-kids",
+   "occasions": [
+    "hanukkah"
+   ],
+   "recipients": [
+    "kids"
+   ],
+   "budget_ceiling_usd": null,
+   "picks": [
+    {
+     "name": "Rite Lite Wooden Dreidel Set"
+    },
+    {
+     "name": "\"Latke, the Lucky Dog\" (book)"
+    },
+    {
+     "name": "\"Hanukkah Bear\" by Eric Kimmel (book)"
+    },
+    {
+     "name": "LEGO Classic Creative Bricks"
+    },
+    {
+     "name": "Crayola Inspiration Art Case"
+    },
+    {
+     "name": "Melissa & Doug Wooden Puzzle"
+    },
+    {
+     "name": "Klutz Friendship Bracelet Kit"
+    },
+    {
+     "name": "Magna-Tiles 32-Piece Set"
+    }
+   ],
+   "summary": "8 picks for eight nights: dreidels and gelt-style treats, books, a craft kit, a game, and one bigger present; most picks under $25."
+  },
+  {
+   "slug": "stocking-stuffers-for-teens",
+   "title": "Stocking Stuffers For Teens",
+   "url": "https://truegift.ai/gifts/stocking-stuffers-for-teens",
+   "occasions": [
+    "stocking"
+   ],
+   "recipients": [
+    "teen"
+   ],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "gifts-for-a-coworker-who-loves-coffee",
+   "title": "Gifts For A Coworker Who Loves Coffee",
+   "url": "https://truegift.ai/gifts/gifts-for-a-coworker-who-loves-coffee",
+   "occasions": [],
+   "recipients": [
+    "coworker"
+   ],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "gifts-for-a-gardener",
+   "title": "Gifts For A Gardener",
+   "url": "https://truegift.ai/gifts/gifts-for-a-gardener",
+   "occasions": [],
+   "recipients": [
+    "gardener"
+   ],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "secret-santa-gifts-for-a-boss",
+   "title": "Secret Santa Gifts For A Boss",
+   "url": "https://truegift.ai/gifts/secret-santa-gifts-for-a-boss",
+   "occasions": [
+    "secret-santa"
+   ],
+   "recipients": [
+    "boss"
+   ],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "gifts-for-grandparents-who-have-everything",
+   "title": "Gifts For Grandparents Who Have Everything",
+   "url": "https://truegift.ai/gifts/gifts-for-grandparents-who-have-everything",
+   "occasions": [],
+   "recipients": [
+    "grandpa",
+    "grandparents",
+    "parents"
+   ],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "gifts-for-a-teacher-under-25",
+   "title": "Gifts For A Teacher Under 25",
+   "url": "https://truegift.ai/gifts/gifts-for-a-teacher-under-25",
+   "occasions": [],
+   "recipients": [
+    "teacher",
+    "her"
+   ],
+   "budget_ceiling_usd": 25
+  },
+  {
+   "slug": "gifts-for-a-new-dad-for-christmas",
+   "title": "Gifts For A New Dad For Christmas",
+   "url": "https://truegift.ai/gifts/gifts-for-a-new-dad-for-christmas",
+   "occasions": [
+    "christmas"
+   ],
+   "recipients": [
+    "dad"
+   ],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "hostess-gifts-for-a-christmas-party",
+   "title": "Hostess Gifts For A Christmas Party",
+   "url": "https://truegift.ai/gifts/hostess-gifts-for-a-christmas-party",
+   "occasions": [
+    "christmas"
+   ],
+   "recipients": [
+    "host"
+   ],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "gifts-for-a-dog-lover-under-25",
+   "title": "Gifts For A Dog Lover Under 25",
+   "url": "https://truegift.ai/gifts/gifts-for-a-dog-lover-under-25",
+   "occasions": [],
+   "recipients": [
+    "dog-lover"
+   ],
+   "budget_ceiling_usd": 25
+  },
+  {
+   "slug": "stocking-stuffers-for-teens-under-25",
+   "title": "Stocking Stuffers For Teens Under 25",
+   "url": "https://truegift.ai/gifts/stocking-stuffers-for-teens-under-25",
+   "occasions": [
+    "stocking"
+   ],
+   "recipients": [
+    "teen"
+   ],
+   "budget_ceiling_usd": 25
+  },
+  {
+   "slug": "gifts-for-someone-who-works-from-home",
+   "title": "Gifts For Someone Who Works From Home",
+   "url": "https://truegift.ai/gifts/gifts-for-someone-who-works-from-home",
+   "occasions": [],
+   "recipients": [],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "gifts-for-someone-who-is-always-cold",
+   "title": "Gifts For Someone Who Is Always Cold",
+   "url": "https://truegift.ai/gifts/gifts-for-someone-who-is-always-cold",
+   "occasions": [],
+   "recipients": [],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "gifts-for-a-book-lover-under-25",
+   "title": "Gifts For A Book Lover Under 25",
+   "url": "https://truegift.ai/gifts/gifts-for-a-book-lover-under-25",
+   "occasions": [],
+   "recipients": [
+    "book-lover"
+   ],
+   "budget_ceiling_usd": 25
+  },
+  {
+   "slug": "gifts-for-a-runner-under-40",
+   "title": "Gifts For A Runner Under 40",
+   "url": "https://truegift.ai/gifts/gifts-for-a-runner-under-40",
+   "occasions": [],
+   "recipients": [
+    "runner"
+   ],
+   "budget_ceiling_usd": 40
+  },
+  {
+   "slug": "gifts-for-a-new-homeowner-under-30",
+   "title": "Gifts For A New Homeowner Under 30",
+   "url": "https://truegift.ai/gifts/gifts-for-a-new-homeowner-under-30",
+   "occasions": [],
+   "recipients": [],
+   "budget_ceiling_usd": 30
+  },
+  {
+   "slug": "christmas-gifts-for-coworkers-under-25",
+   "title": "Christmas Gifts For Coworkers Under 25",
+   "url": "https://truegift.ai/gifts/christmas-gifts-for-coworkers-under-25",
+   "occasions": [
+    "christmas"
+   ],
+   "recipients": [
+    "coworker"
+   ],
+   "budget_ceiling_usd": 25
+  },
+  {
+   "slug": "christmas-gifts-for-a-husband-who-has-everything",
+   "title": "Christmas Gifts For A Husband Who Has Everything",
+   "url": "https://truegift.ai/gifts/christmas-gifts-for-a-husband-who-has-everything",
+   "occasions": [
+    "christmas"
+   ],
+   "recipients": [
+    "husband"
+   ],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "christmas-gifts-for-a-wife-who-has-everything",
+   "title": "Christmas Gifts For A Wife Who Has Everything",
+   "url": "https://truegift.ai/gifts/christmas-gifts-for-a-wife-who-has-everything",
+   "occasions": [
+    "christmas"
+   ],
+   "recipients": [
+    "wife"
+   ],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "christmas-gifts-for-a-mom-who-has-everything",
+   "title": "Christmas Gifts For A Mom Who Has Everything",
+   "url": "https://truegift.ai/gifts/christmas-gifts-for-a-mom-who-has-everything",
+   "occasions": [
+    "christmas"
+   ],
+   "recipients": [
+    "mom"
+   ],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "gifts-for-teen-boys-under-50",
+   "title": "Gifts For Teen Boys Under 50",
+   "url": "https://truegift.ai/gifts/gifts-for-teen-boys-under-50",
+   "occasions": [],
+   "recipients": [
+    "teen"
+   ],
+   "budget_ceiling_usd": 50
+  },
+  {
+   "slug": "secret-santa-gifts-under-20",
+   "title": "Secret Santa Gifts Under 20",
+   "url": "https://truegift.ai/gifts/secret-santa-gifts-under-20",
+   "occasions": [
+    "secret-santa"
+   ],
+   "recipients": [],
+   "budget_ceiling_usd": 20
+  },
+  {
+   "slug": "stocking-stuffers-for-adults-under-10",
+   "title": "Stocking Stuffers For Adults Under 10",
+   "url": "https://truegift.ai/gifts/stocking-stuffers-for-adults-under-10",
+   "occasions": [
+    "stocking"
+   ],
+   "recipients": [],
+   "budget_ceiling_usd": 10
+  },
+  {
+   "slug": "gifts-for-her-under-50",
+   "title": "Gifts For Her Under 50",
+   "url": "https://truegift.ai/gifts/gifts-for-her-under-50",
+   "occasions": [],
+   "recipients": [
+    "her"
+   ],
+   "budget_ceiling_usd": 50
+  },
+  {
+   "slug": "last-minute-christmas-gifts-for-mom",
+   "title": "Last Minute Christmas Gifts For Mom",
+   "url": "https://truegift.ai/gifts/last-minute-christmas-gifts-for-mom",
+   "occasions": [
+    "christmas"
+   ],
+   "recipients": [
+    "mom"
+   ],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "christmas-gifts-for-boyfriend-under-50",
+   "title": "Christmas Gifts For Boyfriend Under 50",
+   "url": "https://truegift.ai/gifts/christmas-gifts-for-boyfriend-under-50",
+   "occasions": [
+    "christmas"
+   ],
+   "recipients": [
+    "boyfriend"
+   ],
+   "budget_ceiling_usd": 50
+  },
+  {
+   "slug": "gifts-for-grandma",
+   "title": "Gifts For Grandma",
+   "url": "https://truegift.ai/gifts/gifts-for-grandma",
+   "occasions": [],
+   "recipients": [
+    "grandma"
+   ],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "gifts-for-grandpa",
+   "title": "Gifts For Grandpa",
+   "url": "https://truegift.ai/gifts/gifts-for-grandpa",
+   "occasions": [],
+   "recipients": [
+    "grandpa"
+   ],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "gifts-for-grandparents-under-50",
+   "title": "Gifts For Grandparents Under 50",
+   "url": "https://truegift.ai/gifts/gifts-for-grandparents-under-50",
+   "occasions": [],
+   "recipients": [
+    "grandpa",
+    "grandparents",
+    "parents"
+   ],
+   "budget_ceiling_usd": 50
+  },
+  {
+   "slug": "gifts-for-dad-who-has-everything",
+   "title": "Gifts For Dad Who Has Everything",
+   "url": "https://truegift.ai/gifts/gifts-for-dad-who-has-everything",
+   "occasions": [],
+   "recipients": [
+    "dad"
+   ],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "gifts-for-mom-who-has-everything",
+   "title": "Gifts For Mom Who Has Everything",
+   "url": "https://truegift.ai/gifts/gifts-for-mom-who-has-everything",
+   "occasions": [],
+   "recipients": [
+    "mom"
+   ],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "anniversary-gifts",
+   "title": "Anniversary Gifts",
+   "url": "https://truegift.ai/gifts/anniversary-gifts",
+   "occasions": [
+    "anniversary"
+   ],
+   "recipients": [],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "anniversary-gifts-by-year",
+   "title": "Anniversary Gifts By Year",
+   "url": "https://truegift.ai/gifts/anniversary-gifts-by-year",
+   "occasions": [
+    "anniversary"
+   ],
+   "recipients": [],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "8-year-anniversary-gift",
+   "title": "8 Year Anniversary Gift",
+   "url": "https://truegift.ai/gifts/8-year-anniversary-gift",
+   "occasions": [
+    "anniversary"
+   ],
+   "recipients": [],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "birthday-gift-for-wife",
+   "title": "Birthday Gift For Wife",
+   "url": "https://truegift.ai/gifts/birthday-gift-for-wife",
+   "occasions": [
+    "birthday"
+   ],
+   "recipients": [
+    "wife"
+   ],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "40th-birthday-ideas",
+   "title": "40Th Birthday Ideas",
+   "url": "https://truegift.ai/gifts/40th-birthday-ideas",
+   "occasions": [
+    "birthday"
+   ],
+   "recipients": [],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "christmas-gift-ideas",
+   "title": "Christmas Gift Ideas",
+   "url": "https://truegift.ai/gifts/christmas-gift-ideas",
+   "occasions": [
+    "christmas"
+   ],
+   "recipients": [],
+   "budget_ceiling_usd": null,
+   "picks": [
+    {
+     "name": "ZIMASILK 100% Pure Mulberry Silk Pillow Cases for Hair and Skin",
+     "why": "A mulberry silk pillowcase, a small luxury most people never buy for themselves.",
+     "section": "For her"
+    },
+    {
+     "name": "Burt's Bees Classics Gift Set",
+     "why": "Six Burt's Bees classics in a tin, already gift-ready.",
+     "section": "For her"
+    },
+    {
+     "name": "Whiskey Stones Gift for Men (glasses set with wood box)",
+     "why": "Two glasses and whiskey stones in a wood box, made for gifting.",
+     "section": "For him"
+    },
+    {
+     "name": "YETI Rambler 20 oz Stainless Steel Vacuum Insulated Tumbler",
+     "why": "A YETI tumbler for the commute, the job site or the tailgate.",
+     "section": "For him"
+    },
+    {
+     "name": "Frameo 10.1\" WiFi Digital Picture Frame",
+     "why": "A Wi-Fi photo frame for the family's pictures, long after the holidays.",
+     "section": "For the family"
+    },
+    {
+     "name": "Exploding Kittens The Board Game",
+     "why": "A board game for 2-6 players for the week between Christmas and New Year's.",
+     "section": "For the family"
+    },
+    {
+     "name": "Ravensburger Christmas Market 1000 Piece Jigsaw Puzzle",
+     "why": "A 1000-piece Christmas market puzzle to work on together.",
+     "section": "For the family"
+    },
+    {
+     "name": "\"Mom, I Want to Hear Your Story\" Guided Journal",
+     "why": "A guided journal that asks mom about her life; the answers are hers.",
+     "section": "Last-minute / unique"
+    },
+    {
+     "name": "HotHands Hand Warmers Value Pack (10 pairs)",
+     "why": "Ten pairs of hand warmers for cold days; easy to add to any order.",
+     "section": "Last-minute / unique"
+    }
+   ],
+   "summary": "9 picks for everyone on the list, sorted by who they're for. Short answer: Burt's Bees Classics Gift Set for a ready-to-give self-care tin, Frameo WiFi Digital Picture Frame for family photos, or Exploding Kittens The Board Game for time together."
+  },
+  {
+   "slug": "christmas-gifts-for-her",
+   "title": "Christmas Gifts For Her",
+   "url": "https://truegift.ai/gifts/christmas-gifts-for-her",
+   "occasions": [
+    "christmas"
+   ],
+   "recipients": [
+    "her"
+   ],
+   "budget_ceiling_usd": null,
+   "picks": [
+    {
+     "name": "ZIMASILK 100% Pure Mulberry Silk Pillow Cases for Hair and Skin",
+     "why": "A mulberry silk pillowcase, the kind of treat most people skip buying for themselves.",
+     "budget_ceiling_usd": 25
+    },
+    {
+     "name": "Yankee Candle Balsam & Cedar Scented Candle, 22oz",
+     "why": "A large balsam and cedar candle for winter evenings.",
+     "budget_ceiling_usd": 25
+    },
+    {
+     "name": "Bodum Bistro Double Wall Insulated Mug, Set of 2",
+     "why": "Two double-wall glass mugs for her morning coffee.",
+     "budget_ceiling_usd": 25
+    },
+    {
+     "name": "Burt's Bees Classics Gift Set",
+     "why": "Six Burt's Bees classics in a giftable tin.",
+     "budget_ceiling_usd": 50
+    },
+    {
+     "name": "LEGO Botanicals Peace Lily 11504",
+     "why": "A LEGO peace lily to build, then display. No watering.",
+     "budget_ceiling_usd": 50
+    },
+    {
+     "name": "Owala FreeSip Stainless Steel Water Bottle 24 oz",
+     "why": "An Owala FreeSip bottle for work, the gym and everything between.",
+     "budget_ceiling_usd": 50
+    },
+    {
+     "name": "Kendra Scott Elisa Pendant Necklace, 14k Gold-Plated",
+     "why": "A simple gold-plated pendant she can wear every day.",
+     "budget_ceiling_usd": 100
+    }
+   ],
+   "summary": "7 ideas across budgets. Short answer: Yankee Candle Balsam & Cedar for winter evenings, LEGO Botanicals Peace Lily for building and displaying, or Burt's Bees Classics Gift Set for a self-care tin."
+  },
+  {
+   "slug": "christmas-gifts-for-wife",
+   "title": "Christmas Gifts For Wife",
+   "url": "https://truegift.ai/gifts/christmas-gifts-for-wife",
+   "occasions": [
+    "christmas"
+   ],
+   "recipients": [
+    "wife"
+   ],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "christmas-gifts-for-girlfriend",
+   "title": "Christmas Gifts For Girlfriend",
+   "url": "https://truegift.ai/gifts/christmas-gifts-for-girlfriend",
+   "occasions": [
+    "christmas"
+   ],
+   "recipients": [
+    "girlfriend"
+   ],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "stocking-stuffers",
+   "title": "Stocking Stuffers",
+   "url": "https://truegift.ai/gifts/stocking-stuffers",
+   "occasions": [
+    "stocking"
+   ],
+   "recipients": [],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "white-elephant-gift-ideas",
+   "title": "White Elephant Gift Ideas",
+   "url": "https://truegift.ai/gifts/white-elephant-gift-ideas",
+   "occasions": [
+    "white-elephant"
+   ],
+   "recipients": [],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "valentines-day-gifts",
+   "title": "Valentines Day Gifts",
+   "url": "https://truegift.ai/gifts/valentines-day-gifts",
+   "occasions": [
+    "valentines"
+   ],
+   "recipients": [],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "mothers-day-gifts",
+   "title": "Mothers Day Gifts",
+   "url": "https://truegift.ai/gifts/mothers-day-gifts",
+   "occasions": [
+    "mothers-day"
+   ],
+   "recipients": [
+    "her"
+   ],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "black-friday-gift-ideas",
+   "title": "Black Friday Gift Ideas",
+   "url": "https://truegift.ai/gifts/black-friday-gift-ideas",
+   "occasions": [
+    "black-friday"
+   ],
+   "recipients": [],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "camping-gifts-under-100",
+   "title": "Camping Gifts Under 100",
+   "url": "https://truegift.ai/gifts/camping-gifts-under-100",
+   "occasions": [],
+   "recipients": [],
+   "budget_ceiling_usd": 100
+  },
+  {
+   "slug": "birthday-gifts-for-mom-under-50",
+   "title": "Birthday Gifts For Mom Under 50",
+   "url": "https://truegift.ai/gifts/birthday-gifts-for-mom-under-50",
+   "occasions": [
+    "birthday"
+   ],
+   "recipients": [
+    "mom"
+   ],
+   "budget_ceiling_usd": 50
+  },
+  {
+   "slug": "christmas-gifts-for-dad-under-100",
+   "title": "Christmas Gifts For Dad Under 100",
+   "url": "https://truegift.ai/gifts/christmas-gifts-for-dad-under-100",
+   "occasions": [
+    "christmas"
+   ],
+   "recipients": [
+    "dad"
+   ],
+   "budget_ceiling_usd": 100
+  },
+  {
+   "slug": "christmas-gifts-for-dad-under-50",
+   "title": "Christmas Gifts For Dad Under 50",
+   "url": "https://truegift.ai/gifts/christmas-gifts-for-dad-under-50",
+   "occasions": [
+    "christmas"
+   ],
+   "recipients": [
+    "dad"
+   ],
+   "budget_ceiling_usd": 50
+  },
+  {
+   "slug": "christmas-gifts-for-grandma-under-25",
+   "title": "Christmas Gifts For Grandma Under 25",
+   "url": "https://truegift.ai/gifts/christmas-gifts-for-grandma-under-25",
+   "occasions": [
+    "christmas"
+   ],
+   "recipients": [
+    "grandma"
+   ],
+   "budget_ceiling_usd": 25
+  },
+  {
+   "slug": "christmas-gifts-for-grandpa-under-50",
+   "title": "Christmas Gifts For Grandpa Under 50",
+   "url": "https://truegift.ai/gifts/christmas-gifts-for-grandpa-under-50",
+   "occasions": [
+    "christmas"
+   ],
+   "recipients": [
+    "grandpa"
+   ],
+   "budget_ceiling_usd": 50
+  },
+  {
+   "slug": "christmas-gifts-for-husband-under-50",
+   "title": "Christmas Gifts For Husband Under 50",
+   "url": "https://truegift.ai/gifts/christmas-gifts-for-husband-under-50",
+   "occasions": [
+    "christmas"
+   ],
+   "recipients": [
+    "husband"
+   ],
+   "budget_ceiling_usd": 50
+  },
+  {
+   "slug": "christmas-gifts-for-mom-under-50",
+   "title": "Christmas Gifts For Mom Under 50",
+   "url": "https://truegift.ai/gifts/christmas-gifts-for-mom-under-50",
+   "occasions": [
+    "christmas"
+   ],
+   "recipients": [
+    "mom"
+   ],
+   "budget_ceiling_usd": 50
+  },
+  {
+   "slug": "christmas-gifts-for-teen-boy-under-25",
+   "title": "Christmas Gifts For Teen Boy Under 25",
+   "url": "https://truegift.ai/gifts/christmas-gifts-for-teen-boy-under-25",
+   "occasions": [
+    "christmas"
+   ],
+   "recipients": [
+    "teen"
+   ],
+   "budget_ceiling_usd": 25
+  },
+  {
+   "slug": "christmas-gifts-for-teen-girl-under-25",
+   "title": "Christmas Gifts For Teen Girl Under 25",
+   "url": "https://truegift.ai/gifts/christmas-gifts-for-teen-girl-under-25",
+   "occasions": [
+    "christmas"
+   ],
+   "recipients": [
+    "teen"
+   ],
+   "budget_ceiling_usd": 25
+  },
+  {
+   "slug": "christmas-gifts-for-wife-under-50",
+   "title": "Christmas Gifts For Wife Under 50",
+   "url": "https://truegift.ai/gifts/christmas-gifts-for-wife-under-50",
+   "occasions": [
+    "christmas"
+   ],
+   "recipients": [
+    "wife"
+   ],
+   "budget_ceiling_usd": 50
+  },
+  {
+   "slug": "family-board-game-gifts-under-25",
+   "title": "Family Board Game Gifts Under 25",
+   "url": "https://truegift.ai/gifts/family-board-game-gifts-under-25",
+   "occasions": [],
+   "recipients": [],
+   "budget_ceiling_usd": 25
+  },
+  {
+   "slug": "gifts-for-coffee-lovers-under-100",
+   "title": "Gifts For Coffee Lovers Under 100",
+   "url": "https://truegift.ai/gifts/gifts-for-coffee-lovers-under-100",
+   "occasions": [],
+   "recipients": [],
+   "budget_ceiling_usd": 100
+  },
+  {
+   "slug": "gifts-for-dad-who-likes-coffee-under-50",
+   "title": "Gifts For Dad Who Likes Coffee Under 50",
+   "url": "https://truegift.ai/gifts/gifts-for-dad-who-likes-coffee-under-50",
+   "occasions": [],
+   "recipients": [
+    "dad"
+   ],
+   "budget_ceiling_usd": 50
+  },
+  {
+   "slug": "gifts-for-dad-who-likes-grilling-under-50",
+   "title": "Gifts For Dad Who Likes Grilling Under 50",
+   "url": "https://truegift.ai/gifts/gifts-for-dad-who-likes-grilling-under-50",
+   "occasions": [],
+   "recipients": [
+    "dad"
+   ],
+   "budget_ceiling_usd": 50
+  },
+  {
+   "slug": "gifts-for-home-cooks-under-100",
+   "title": "Gifts For Home Cooks Under 100",
+   "url": "https://truegift.ai/gifts/gifts-for-home-cooks-under-100",
+   "occasions": [],
+   "recipients": [],
+   "budget_ceiling_usd": 100
+  },
+  {
+   "slug": "gifts-for-outdoorsy-people-under-50",
+   "title": "Gifts For Outdoorsy People Under 50",
+   "url": "https://truegift.ai/gifts/gifts-for-outdoorsy-people-under-50",
+   "occasions": [],
+   "recipients": [],
+   "budget_ceiling_usd": 50
+  },
+  {
+   "slug": "gifts-for-someone-who-loves-cooking-under-50",
+   "title": "Gifts For Someone Who Loves Cooking Under 50",
+   "url": "https://truegift.ai/gifts/gifts-for-someone-who-loves-cooking-under-50",
+   "occasions": [],
+   "recipients": [],
+   "budget_ceiling_usd": 50
+  },
+  {
+   "slug": "hanukkah-gifts-for-dad-under-50",
+   "title": "Hanukkah Gifts For Dad Under 50",
+   "url": "https://truegift.ai/gifts/hanukkah-gifts-for-dad-under-50",
+   "occasions": [
+    "hanukkah"
+   ],
+   "recipients": [
+    "dad"
+   ],
+   "budget_ceiling_usd": 50
+  },
+  {
+   "slug": "hanukkah-gifts-for-mom-under-50",
+   "title": "Hanukkah Gifts For Mom Under 50",
+   "url": "https://truegift.ai/gifts/hanukkah-gifts-for-mom-under-50",
+   "occasions": [
+    "hanukkah"
+   ],
+   "recipients": [
+    "mom"
+   ],
+   "budget_ceiling_usd": 50
+  },
+  {
+   "slug": "hanukkah-gifts-for-teens-under-25",
+   "title": "Hanukkah Gifts For Teens Under 25",
+   "url": "https://truegift.ai/gifts/hanukkah-gifts-for-teens-under-25",
+   "occasions": [
+    "hanukkah"
+   ],
+   "recipients": [
+    "teen"
+   ],
+   "budget_ceiling_usd": 25
+  },
+  {
+   "slug": "secret-santa-gifts-under-15",
+   "title": "Secret Santa Gifts Under 15",
+   "url": "https://truegift.ai/gifts/secret-santa-gifts-under-15",
+   "occasions": [
+    "secret-santa"
+   ],
+   "recipients": [],
+   "budget_ceiling_usd": 15
+  },
+  {
+   "slug": "teacher-gifts-under-25",
+   "title": "Teacher Gifts Under 25",
+   "url": "https://truegift.ai/gifts/teacher-gifts-under-25",
+   "occasions": [],
+   "recipients": [
+    "teacher",
+    "her"
+   ],
+   "budget_ceiling_usd": 25
+  },
+  {
+   "slug": "tech-gifts-for-dad-under-100",
+   "title": "Tech Gifts For Dad Under 100",
+   "url": "https://truegift.ai/gifts/tech-gifts-for-dad-under-100",
+   "occasions": [],
+   "recipients": [
+    "dad"
+   ],
+   "budget_ceiling_usd": 100
+  },
+  {
+   "slug": "white-elephant-gifts-under-25",
+   "title": "White Elephant Gifts Under 25",
+   "url": "https://truegift.ai/gifts/white-elephant-gifts-under-25",
+   "occasions": [
+    "white-elephant"
+   ],
+   "recipients": [],
+   "budget_ceiling_usd": 25
+  },
+  {
+   "slug": "gifts-for-coffee-lovers",
+   "title": "Gifts For Coffee Lovers",
+   "url": "https://truegift.ai/guides/gifts-for-coffee-lovers",
+   "occasions": [],
+   "recipients": [],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "gifts-for-new-dads",
+   "title": "Gifts For New Dads",
+   "url": "https://truegift.ai/guides/gifts-for-new-dads",
+   "occasions": [],
+   "recipients": [
+    "dad"
+   ],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "gifts-for-teachers",
+   "title": "Gifts For Teachers",
+   "url": "https://truegift.ai/guides/gifts-for-teachers",
+   "occasions": [],
+   "recipients": [
+    "teacher",
+    "her"
+   ],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "gifts-for-someone-who-has-everything",
+   "title": "Gifts For Someone Who Has Everything",
+   "url": "https://truegift.ai/guides/gifts-for-someone-who-has-everything",
+   "occasions": [],
+   "recipients": [],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "housewarming-gifts-under-30",
+   "title": "Housewarming Gifts Under 30",
+   "url": "https://truegift.ai/guides/housewarming-gifts-under-30",
+   "occasions": [
+    "housewarming"
+   ],
+   "recipients": [],
+   "budget_ceiling_usd": 30
+  },
+  {
+   "slug": "gifts-for-nurses",
+   "title": "Gifts For Nurses",
+   "url": "https://truegift.ai/guides/gifts-for-nurses",
+   "occasions": [],
+   "recipients": [
+    "nurse"
+   ],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "personalized-gifts",
+   "title": "Personalized Gifts",
+   "url": "https://truegift.ai/guides/personalized-gifts",
+   "occasions": [],
+   "recipients": [],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "gifts-for-parents-and-grandparents",
+   "title": "Gifts For Parents And Grandparents",
+   "url": "https://truegift.ai/guides/gifts-for-parents-and-grandparents",
+   "occasions": [],
+   "recipients": [
+    "grandpa",
+    "grandparents",
+    "parents"
+   ],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "cozy-gifts",
+   "title": "Cozy Gifts",
+   "url": "https://truegift.ai/guides/cozy-gifts",
+   "occasions": [],
+   "recipients": [],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "gifts-for-him",
+   "title": "Gifts For Him",
+   "url": "https://truegift.ai/guides/gifts-for-him",
+   "occasions": [],
+   "recipients": [
+    "him"
+   ],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "gifts-under-75",
+   "title": "Gifts Under 75",
+   "url": "https://truegift.ai/guides/gifts-under-75",
+   "occasions": [],
+   "recipients": [],
+   "budget_ceiling_usd": 75
+  },
+  {
+   "slug": "gifts-for-the-host",
+   "title": "Gifts For The Host",
+   "url": "https://truegift.ai/guides/gifts-for-the-host",
+   "occasions": [],
+   "recipients": [
+    "host"
+   ],
+   "budget_ceiling_usd": null
+  },
+  {
+   "slug": "ai-christmas-gift-finder",
+   "title": "Ai Christmas Gift Finder",
+   "url": "https://truegift.ai/guides/ai-christmas-gift-finder",
+   "occasions": [
+    "christmas"
+   ],
+   "recipients": [],
+   "budget_ceiling_usd": null
+  }
+ ]
+}
